@@ -151,3 +151,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 pdfs/
+tmccmldm_category.json
+se_category.json
+sc_category.json
+not_tmccmldm_categories.json
+no_category.json
+ha_category.json
+fl_category.json
+db_category.json
+category.json
+cs_category.json
