@@ -161,3 +161,5 @@ fl_category.json
 db_category.json
 category.json
 cs_category.json
+*.csv
+*.json
