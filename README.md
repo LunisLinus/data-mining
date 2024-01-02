@@ -15,7 +15,7 @@
 2. NumPy
 3. Scikit-learn
 4. Matplotlib
-5 . Jupyter Notebook
+5. Jupyter Notebook
 
 Примеры Использования
 Описание различных сценариев использования и примеров анализа данных включены в Jupyter Notebooks в репозитории.
